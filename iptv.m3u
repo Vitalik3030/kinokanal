@@ -11,3 +11,5 @@ http://109.248.236.41:4433/udp/238.1.1.53:1234?em9uYS1pcHR2LnJ1
 http://109.248.236.41:4433/udp/238.1.1.54:1234?em9uYS1pcHR2LnJ1
 EXTINF:-1,Amedia Hit HD (Резерв)
 http://stream.euroasia.lfstrm.tv/amedia_hit_hd/1/index.m3u8
+#EXTINF:-1,Amedia Premium HD (Резерв)
+http://stream.euroasia.lfstrm.tv/amedia_premium_hd/1/index.m3u8
