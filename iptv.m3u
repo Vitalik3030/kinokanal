@@ -9,5 +9,5 @@ http://109.248.236.41:4433/udp/238.1.1.52:1234?em9uYS1pcHR2LnJ1
 http://109.248.236.41:4433/udp/238.1.1.53:1234?em9uYS1pcHR2LnJ1
 #EXTINF:-1,>> Наше новое кино
 http://109.248.236.41:4433/udp/238.1.1.54:1234?em9uYS1pcHR2LnJ1
-#EXTINF:-1,>> Родное кино
-http://109.248.236.41:4433/udp/238.1.1.77:1234?em9uYS1pcHR2LnJ1
+EXTINF:-1,Amedia Hit HD (Резерв)
+http://stream.euroasia.lfstrm.tv/amedia_hit_hd/1/index.m3u8
