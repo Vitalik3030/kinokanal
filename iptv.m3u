@@ -33,3 +33,10 @@ http://109.95.47.229:809/19/index.m3u8
 http://91.231.219.145:80/tv_fox_HD/video.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,HCT
 http://ott-cdn.ucom.am/s87/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,HORROR
+http://v2.myowntv.org/content/35026/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,Kinoman ATV
+http://ott-cdn.ucom.am/s94/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+v.ru-v1-a1.m3u8
+#EXTINF:-1,MGM HD
+http://91.231.219.145:80/tv_mgm_HD/video.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
